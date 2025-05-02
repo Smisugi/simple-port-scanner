@@ -27,7 +27,7 @@ python main.py
 
 You will be prompted the enter the host IP you want to scan.
 
-Feel free to modify the list of scann ports in the script.
+Feel free to modify the list of scan ports in the script.
 
 ### 🔧 Requirements
 
