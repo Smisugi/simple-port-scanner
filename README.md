@@ -31,6 +31,5 @@ Feel free to modify the list of scann ports in the script.
 
 ### 🔧 Requirements
 
-     Python 3.6+
-
-    No external libraries required
+Python 3.6+
+No external libraries required
